@@ -1,0 +1,6 @@
+Name: Margarita
+Lastname: Morozova
+Age: 39
+Pets: Null
+Salary: > 1500
+
