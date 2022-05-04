@@ -1,0 +1,8 @@
+skill1: gtt bush
+skill2: javascript,
+skill3: DevTools,
+ill4: Charles, Fiddler,
+skill5: Postman,
+skill6: DBeaver,
+skiils7: Python.
+
